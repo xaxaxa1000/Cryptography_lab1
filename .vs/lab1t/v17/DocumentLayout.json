@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects VS\\lab1t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA6B2F7-40A1-4202-951B-CEF39342E1F5}|lab1t\\lab1t.vcxproj|F:\\projects VS\\lab1t\\lab1t\\lab1t.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AA6B2F7-40A1-4202-951B-CEF39342E1F5}|lab1t\\lab1t.vcxproj|solutionrelative:lab1t\\lab1t.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1t.cpp",
+              "DocumentMoniker": "F:\\projects VS\\lab1t\\lab1t\\lab1t.cpp",
+              "RelativeDocumentMoniker": "lab1t\\lab1t.cpp",
+              "ToolTip": "F:\\projects VS\\lab1t\\lab1t\\lab1t.cpp",
+              "RelativeToolTip": "lab1t\\lab1t.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T19:05:51.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
